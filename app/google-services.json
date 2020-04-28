@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "242540885785",
+    "firebase_url": "https://chat-aba9b.firebaseio.com",
+    "project_id": "chat-aba9b",
+    "storage_bucket": "chat-aba9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242540885785:android:b93a4f512d026d6d467788",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242540885785-86gjaj7q20rh9fj9drilu4vhvnnb0c6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "62e03b52ed53308acfc54a1f98fe52910c68acc5"
+          }
+        },
+        {
+          "client_id": "242540885785-r3r1d3np2lie8gifmj8bnhbh348p5f6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAmUj0uRj75F97EnarZRRqjUIaL5RgyMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242540885785-r3r1d3np2lie8gifmj8bnhbh348p5f6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
